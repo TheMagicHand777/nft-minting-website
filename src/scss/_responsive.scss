@@ -1,0 +1,24 @@
+img {
+    &.responsive {
+        max-width: 100%;
+    }
+}
+
+// @media (min-width: 600px) {
+//     img.social-icon {
+//         width: 36px;
+//         height: 36px;
+//     }
+// }
+// @media (min-width: 940px) {
+//     img.social-icon {
+//         width: 64px;
+//         height: 64px;
+//         object-fit: contain;
+//         transition: all 0.5s;
+//     }
+//     .small img.social-icon {
+//         width: 36px;
+//         height: 36px;
+//     }
+// }

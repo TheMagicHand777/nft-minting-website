@@ -1,0 +1,10 @@
+img.w-full {
+    width: 100%;
+    display: block;
+}
+img.social-icon {
+    // width: 21px;
+    // height: 21px;
+    object-fit: contain;
+    transition: all 0.5s;
+}
