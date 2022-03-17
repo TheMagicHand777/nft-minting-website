@@ -1,4 +1,4 @@
-# The Sullen
+# React-based NFT Minting Website 
 
 ## Available Scripts
 
